@@ -1,0 +1,1 @@
+python -c 'import secrets; print("Secret Key: ", secrets.token_hex())' 
