@@ -27,4 +27,4 @@
 <img width="598" alt="Screenshot 2024-03-23 at 6 48 51 PM" src="https://github.com/jkmathilda/flask-login/assets/142202145/f40873ee-f2f9-4a51-8e00-ebdbde4795f5">
 
 ## Dashboard page
-<img width="672" alt="Screenshot 2024-03-23 at 6 49 38 PM" src="https://github.com/jkmathilda/flask-login/assets/142202145/411f21eb-95c4-4fb2-bc7d-37932e2cf1de">
+<img width="644" alt="Screenshot 2024-03-23 at 6 55 06 PM" src="https://github.com/jkmathilda/flask-login/assets/142202145/cf540718-b9b9-4037-a81f-483b8e028bfe">
