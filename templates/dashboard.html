@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block style %}
+body
+{
+  background-image:url('./static/bg_clouds.jpg');
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+{% endblock style %}
+
+{% block title %}
+Login page
+{% endblock title %}
+
+{% block content %}
+<div class="container">
+    <div class=" row justify-content-center">
+        <div class="col-sm-8">
+            <h2>user dashboard</h2>
+            <p><b>Name: </b> {{user.name }}</p>
+            <p><b>Email: </b> {{user.email }}</p>
+            <a href="/logout" class="btn btn-dark mt-3">Logout</a>
+            <a href="/" class="btn btn-warning mt-3">Home</a>
+            <a href="/dashboard" class="btn btn-info mt-3">Dashboard</a>
+        </div>
+    </div>
+</div>
+{% endblock content %}

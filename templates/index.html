@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block style %}
+body
+{
+  background-image:url('./static/bg_main.jpg');
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+{% endblock style %}
+
+{% block title %}
+Auth system
+{% endblock title %}
+
+{% block content %}
+<style>
+    .container {
+        color: white;
+    }
+</style>
+
+<div class="container">
+    <div class=" row justify-content-center">
+        <div class="col-sm-8">
+            <h2>Home page</h2>
+            <a href="/register" class="btn btn-primary mt-3">Register</a>
+            <a href="/login" class="btn btn-danger mt-3">Login</a>
+            <a href="/" class="btn btn-warning mt-3">Home</a>
+            <a href="/dashboard" class="btn btn-info mt-3">Dashboard</a>
+        </div>
+    </div>
+</div>
+{% endblock content %}
+
