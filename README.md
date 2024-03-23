@@ -16,9 +16,9 @@
 
 ## Reference
 
-    [Flask User Authentication: Login, Register, and Dashboard Implementation with Python, MySQLAlchemy](https://www.youtube.com/watch?v=nZRygaTH2MA)
+[Flask User Authentication: Login, Register, and Dashboard Implementation with Python, MySQLAlchemy](https://www.youtube.com/watch?v=nZRygaTH2MA)
 
-    https://github.com/kritimyantra/flask-authentication-system/tree/main
+https://github.com/kritimyantra/flask-authentication-system/tree/main
 
 ## Login page
 <img width="639" alt="Screenshot 2024-03-23 at 6 48 30 PM" src="https://github.com/jkmathilda/flask-login/assets/142202145/dfc54bd2-014d-4708-96bf-4e942cb2661f">
